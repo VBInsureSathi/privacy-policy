@@ -1,13 +1,13 @@
-# Financial Sathi — Privacy Policy
+# VB FinCalc — Privacy Policy
 
 **Effective Date:** November 20, 2026  
 **Developer:** VB InsureSathi
 
-VB InsureSathi ("we," "our," or "us") built the **Financial Sathi** app as a financial calculator tool. This Privacy Policy explains how your information is handled when you use our mobile application.
+VB InsureSathi ("we," "our," or "us") built the **VB FinCalc** app as a financial calculator tool. This Privacy Policy explains how your information is handled when you use our mobile application.
 
 ## 1. No Account or Login Required
 
-Financial Sathi does not require you to create an account, register, or log in. You can use all features of the application anonymously without providing personal identifiers such as your name, phone number, email address, or government ID.
+VB FinCalc does not require you to create an account, register, or log in. You can use all features of the application anonymously without providing personal identifiers such as your name, phone number, email address, or government ID.
 
 ## 2. Data Collection and Local Storage
 
@@ -27,7 +27,7 @@ Because your data is stored locally on your device, its security depends on the 
 
 ## 5. Children's Privacy
 
-Financial Sathi does not knowingly collect any personal information from anyone, including children under the age of 13 (or the applicable age of digital consent in your jurisdiction).
+VB FinCalc does not knowingly collect any personal information from anyone, including children under the age of 13 (or the applicable age of digital consent in your jurisdiction).
 
 ## 6. Changes to This Privacy Policy
 
